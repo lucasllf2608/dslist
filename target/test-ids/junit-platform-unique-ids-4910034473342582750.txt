@@ -1,0 +1,1 @@
+[engine:junit-jupiter]/[class:com.devsuperior.dslist.DslistApplicationTests]/[method:contextLoads()]
