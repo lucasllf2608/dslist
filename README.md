@@ -2,7 +2,7 @@
 
 ### Descrição do projeto:
 <div style="display:inline_block">
-<p>Projeto Intensivão Java Spring organizado pelo DevSuperior com o professor Nelio Alves no periodo de 10/07 a 14/07. </p>
+<p>Projeto de estudo feito durante o intensivão Java Spring organizado pelo DevSuperior com o professor Nelio Alves no periodo de 10/07 a 14/07. </p>
 </div>
 <br/>
 
